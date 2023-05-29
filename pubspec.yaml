@@ -49,8 +49,25 @@ dev_dependencies:
   # app icon
   flutter_launcher_icons: ^0.13.1
 
+  # splash scren
+  flutter_native_splash:
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
+
+flutter_native_splash:
+  color: "#f5f5f5"
+  image: assets/logo/coderiddle-logo.png
+  color_dark: "#0D0D0D"
+  image_dark: assets/logo/coderiddle-logo.png
+
+  android_12:
+    image: assets/logo/coderiddle-logo.png
+    icon_background_color: "#f5f5f5"
+    image_dark: assets/logo/coderiddle-logo.png
+    icon_background_color_dark: "#0D0D0D"
+
+  web: false
 
 flutter_icons:
   android: true
