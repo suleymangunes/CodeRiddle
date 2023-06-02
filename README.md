@@ -2,4 +2,4 @@
 
 ### MockUp and Basis Requirements
 
-![coderiddle_mockup_pad](https://github.com/suleymangunes/CodeRiddle/assets/62201710/c782ef0b-9357-450e-80a7-f5332ef884b1)
+![coderiddle_mobile_app_mockup](https://github.com/suleymangunes/CodeRiddle/assets/62201710/636c5387-14bc-4a61-8690-ee95cd343ef6)
